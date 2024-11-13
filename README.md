@@ -19,3 +19,4 @@ However, in an enterprise environment, that might not be ideal.
 That's why I created a script that we can deploy to Intune-managed systems via Microsoft Intune.
 
 As you probably know, the remediation consists of two PowerShell scripts: the detection script and the remediation script.
+![screenshot](https://github.com/timo-worksimple/DeleteNewOutlookclient/blob/main/Remediation_EN.png)
