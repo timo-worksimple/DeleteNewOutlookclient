@@ -9,7 +9,7 @@ Deshalb habe ich ein Skript erstellt, das wir über Microsoft Intune auf die von
 Die Korrekturmaßnahme besteht, wie Sie wahrscheinlich wissen, aus zwei PowerShell-Skripten, nämlich dem Erkennungs- und dem Wiederherstellungsskript.
 
 **Einstellungen in Intune:**
-![screenshot](https://github.com/timo-worksimple/DeleteNewOutlookclient/blob/main/Remediation.png)
+![screenshot](Screenshots/Remediation.png)
 
 
 # English 
@@ -19,4 +19,4 @@ However, in an enterprise environment, that might not be ideal.
 That's why I created a script that we can deploy to Intune-managed systems via Microsoft Intune.
 
 As you probably know, the remediation consists of two PowerShell scripts: the detection script and the remediation script.
-![screenshot](https://github.com/timo-worksimple/DeleteNewOutlookclient/blob/main/Remediation_EN.png)
+![screenshot](Screenshots/Remediation_EN.png)
