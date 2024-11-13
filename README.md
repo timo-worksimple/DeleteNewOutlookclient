@@ -12,7 +12,7 @@ Die Korrekturmaßnahme besteht, wie Sie wahrscheinlich wissen, aus zwei PowerShe
 ![screenshot](https://github.com/timo-worksimple/DeleteNewOutlookclient/blob/main/Remediation.png)
 
 
-#English 
+# English 
 Outlook for Windows is the replacement for the Windows Mail app.
 This is great if you're using Windows 11 as a personal device.
 However, in an enterprise environment, that might not be ideal.
